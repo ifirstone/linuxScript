@@ -1,8 +1,8 @@
-# ==========run—remote.sh================
+# ==========run_remote.py================
 ## 安装tmate终端共享工具，并将共享信息提交到https://file.zmkk.fun/脚本 
 查看提交的信息： https://file.zmkk.fun/user_name.txt
 运行脚本前需要修改173行和279行的user_name的值
-# ==========run—remote.sh================
+# ==========run_remote.py================
 
 # ==========root.sh================
 ## Ubuntu Proot 环境安装脚本 
